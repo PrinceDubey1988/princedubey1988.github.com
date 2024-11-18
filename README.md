@@ -3,12 +3,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="3;url=https://www.example.com/blocked">
+    <meta http-equiv="refresh" content="3;url=https://www.thisisblock.com/blocked">
     <title>Access Blocked</title>
 </head>
 <body>
     <h1>Access Denied</h1>
     <p>Your access to this page is restricted. You will be redirected shortly.</p>
-    <p>If you are not redirected, <a href="https://www.example.com/blocked">click here</a>.</p>
+    <p>If you are not redirected, <a href="https://www.thisisblock.com/blocked">click here</a>.</p>
 </body>
 </html>
