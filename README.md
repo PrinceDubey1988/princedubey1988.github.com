@@ -32,6 +32,5 @@
 <body>
     <h1>You are blocked by IT</h1>
     <p>Your access to this page has been restricted. Please contact IT support if you believe this is an error.</p>
-    <p>You will be redirected shortly. If not, click <a href="/blocked">here</a>.</p>
-</body>
+    </body>
 </html>
